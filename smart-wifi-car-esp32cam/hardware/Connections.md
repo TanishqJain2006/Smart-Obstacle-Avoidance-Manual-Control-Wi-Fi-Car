@@ -62,5 +62,5 @@ This document explains all the hardware connections between the **ESP32-CAM**, t
 
 ---
 
-## 🧩 Quick Overview Diagram (text version)
+
 
