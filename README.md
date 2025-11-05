@@ -119,7 +119,7 @@ The webpage includes:
 ---
 
 ## 🧾 Folder Structure
-
+```bash
 smart-wifi-car-esp32cam/
 ├── firmware/
 │ ├── esp32-cam/
@@ -139,7 +139,7 @@ smart-wifi-car-esp32cam/
 ├── car_top_view.jpg
 ├── webpage_ui.png
 └── working_demo.png
-
+```
 
 ---
 
